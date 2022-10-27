@@ -1,15 +1,9 @@
 # appium-codeceptjs-to-do-app
 Testing framework for To do application
-# cypress-demoqa
-Framework: Cypress
 
 Language: Javascript
 
-Test Application: https://demoqa.com/
-
-Api Documents: https://demoqa.com/swagger/
-
-Apply configuration file, POM, fixture
+Test Application: To do application
 
 Scenario 1:  Add task
 
