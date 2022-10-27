@@ -14,7 +14,7 @@ Scenario 3: Update task
 ## clone this repo to a local directory
 https://github.com/hiiamzens/appium-codeceptjs-to-do-app.git
 
-## install needed packages
+## Install needed packages
 npm install
 
 ## Steps:
